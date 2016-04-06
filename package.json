@@ -1,0 +1,22 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "express": "^4.13.4",
+    "grunt-concurrent": "^2.2.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "jade": "^1.11.0",
+    "grunt-nodemon": "^0.4.1",
+    "moment": "^2.12.0",
+    "mongoose": "^4.4.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
